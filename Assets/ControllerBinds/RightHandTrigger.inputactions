@@ -1,0 +1,34 @@
+{
+    "name": "RightHandTrigger",
+    "maps": [
+        {
+            "name": "RightTriggerClick",
+            "id": "82607588-aa92-4cd0-9fab-ccbd990ec49e",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "2fb328d9-122b-42f5-a394-0a66eb1a03a8",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "9f58f990-24f6-4fc7-bd81-3deba47baa4a",
+                    "path": "<XRController>{RightHand}/{TriggerButton}",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

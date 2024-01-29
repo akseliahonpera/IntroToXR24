@@ -1,0 +1,34 @@
+{
+    "name": "Paskaaaa",
+    "maps": [
+        {
+            "name": "New action map",
+            "id": "4fc17ef4-5084-4a0a-9f96-84d063beb9b3",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "a4eb4926-9089-4128-bd69-8234f6ba90dc",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Hold",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "0c27a44e-aef2-4329-b850-a202d0393e46",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
